@@ -1,1 +1,1 @@
-This project is a web community based on Springboot.
+This project is a web community based on SpringBoot, Redis, Elasticsearch, Kafka, SpringSecurity, Quarz and Caffeine. The pity is that this web page has not been released online yet, hopefully I will do this in a few days.
